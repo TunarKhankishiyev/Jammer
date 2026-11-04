@@ -157,16 +157,12 @@ Three NRF24L01+ modules run in parallel to cover multiple channels simultaneousl
 
 ---
 
-## 🙏 Credits
-
-Firmware is based on the [NRF Box](https://github.com/cifertech/nrfbox) project by **cifertech** (MIT License), heavily reworked with a new UI, buzzer feedback, and custom hardware.
-
 ## 👤 Author
 
 Built by **Tunar Khankishiyev** — hardware hacker, embedded systems & wireless security enthusiast.
 
 - GitHub: [@tunarkhankishiyev](https://github.com/tunarkhankishiyev)
-- LinkedIn: [tunar-xankisiyev-154a74328](https://linkedin.com/in/tunar-xankisiyev-154a74328)
+- LinkedIn: [Tunar Khankishiyev](https://www.linkedin.com/in/tunar-khankishiyev-154a74328)
 
 ---
 
