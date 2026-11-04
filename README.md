@@ -121,39 +121,62 @@ Three NRF24L01+ modules run in parallel to cover multiple channels simultaneousl
 
 ### Wiring
 
-**SPI bus (all three radios):**
+<table>
+  <tr>
+    <td valign="top">
 
-| Signal | ESP32 GPIO |
-|---|---|
-| SCK | GPIO 18 |
-| MISO | GPIO 19 |
-| MOSI | GPIO 23 |
+<b>SPI bus (all three radios)</b>
 
-**NRF24L01+ modules:**
+<table>
+  <tr><th>Signal</th><th>ESP32 GPIO</th></tr>
+  <tr><td>SCK</td><td>GPIO 18</td></tr>
+  <tr><td>MISO</td><td>GPIO 19</td></tr>
+  <tr><td>MOSI</td><td>GPIO 23</td></tr>
+</table>
 
-| Radio | CE | CSN |
-|---|---|---|
-| Radio A | GPIO 5 | GPIO 17 |
-| Radio B | GPIO 16 | GPIO 4 |
-| Radio C | GPIO 15 | GPIO 2 |
+    </td>
+    <td valign="top">
 
-**OLED (SH1106, I2C):**
+<b>NRF24L01+ modules</b>
 
-| Signal | ESP32 GPIO |
-|---|---|
-| SDA | GPIO 13 |
-| SCL | GPIO 14 |
+<table>
+  <tr><th>Radio</th><th>CE</th><th>CSN</th></tr>
+  <tr><td>Radio A</td><td>GPIO 5</td><td>GPIO 17</td></tr>
+  <tr><td>Radio B</td><td>GPIO 16</td><td>GPIO 4</td></tr>
+  <tr><td>Radio C</td><td>GPIO 15</td><td>GPIO 2</td></tr>
+</table>
 
-**Buttons & accessories:**
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
 
-| GPIO | Function |
-|---|---|
-| GPIO 25 | Left / Back |
-| GPIO 26 | Up / Toggle |
-| GPIO 27 | Right / Data rate |
-| GPIO 32 | Select |
-| GPIO 33 | Down / Channel |
-| GPIO 12 | Passive buzzer |
+<b>OLED (SH1106, I2C)</b>
+
+<table>
+  <tr><th>Signal</th><th>ESP32 GPIO</th></tr>
+  <tr><td>SDA</td><td>GPIO 13</td></tr>
+  <tr><td>SCL</td><td>GPIO 14</td></tr>
+</table>
+
+    </td>
+    <td valign="top">
+
+<b>Buttons &amp; accessories</b>
+
+<table>
+  <tr><th>GPIO</th><th>Function</th></tr>
+  <tr><td>GPIO 25</td><td>Left / Back</td></tr>
+  <tr><td>GPIO 26</td><td>Up / Toggle</td></tr>
+  <tr><td>GPIO 27</td><td>Right / Data rate</td></tr>
+  <tr><td>GPIO 32</td><td>Select</td></tr>
+  <tr><td>GPIO 33</td><td>Down / Channel</td></tr>
+  <tr><td>GPIO 12</td><td>Passive buzzer</td></tr>
+</table>
+
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -162,7 +185,7 @@ Three NRF24L01+ modules run in parallel to cover multiple channels simultaneousl
 Built by **Tunar Khankishiyev** — hardware hacker, embedded systems & wireless security enthusiast.
 
 - GitHub: [@tunarkhankishiyev](https://github.com/tunarkhankishiyev)
-- LinkedIn: [Tunar Khankishiyev](https://www.linkedin.com/in/tunar-khankishiyev-154a74328)
+- LinkedIn: [tunar-xankisiyev-154a74328](https://linkedin.com/in/tunar-xankisiyev-154a74328)
 
 ---
 
