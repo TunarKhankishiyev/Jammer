@@ -1,4 +1,4 @@
-# 📡 JAMMER V2 — Wireless Security Research Device
+# 📡 JAMMER V2
 
 A hands-on hardware and cybersecurity project. Built to understand wireless communication, RF interference, and the real-world attack surface of 2.4 GHz protocols — and how systems can be hardened against them.
 
