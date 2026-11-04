@@ -37,9 +37,6 @@ Version 2 is a full hardware revision. Everything that made the first version wo
 
 ## 📸 Build photos
 
-![workspace](Jammer-Photos/01-workspace.jpg)
-*The workspace — every project starts like this.*
-
 ![dev environment](Jammer-Photos/04-dev-environment.jpg)
 *Planning the wiring: schematic on the monitor, firmware on the laptop.*
 
