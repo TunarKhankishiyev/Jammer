@@ -2,7 +2,7 @@
 
 A hands-on hardware and cybersecurity project. Built to understand wireless communication, RF interference, and the real-world attack surface of 2.4 GHz protocols — and how systems can be hardened against them.
 
-![device](Jammer-Photos/06-device-front.jpg)
+<p><img src="Jammer-Photos/06-device-front.jpg" width="380"></p>
 
 ---
 
@@ -25,29 +25,20 @@ Version 2 is a full hardware revision. Everything that made the first version wo
 | 🔊 | **Buzzer** | A passive buzzer gives audio feedback everywhere: menu clicks, confirmations, back ticks, and a "still running" heartbeat while a radio module is active. |
 | 🖥️ | **New UI** | A tab-based menu system (SCAN / ATTACK / SYS) with icons, a status bar, and position dots. Everything is navigable from the 5-way button pad. |
 
-### From this...
+### From this... ...to this
 
-![breadboard testing](Jammer-Photos/05-breadboard-testing.jpg)
-
-### ...to this
-
-![finished device](Jammer-Photos/06-device-front.jpg)
+| Before | After |
+|---|---|
+| <img src="Jammer-Photos/05-breadboard-testing.jpg" width="380"> | <img src="Jammer-Photos/06-device-front.jpg" width="380"> |
 
 ---
 
 ## 📸 Build photos
 
-![dev environment](Jammer-Photos/04-dev-environment.jpg)
-*Planning the wiring: schematic on the monitor, firmware on the laptop.*
-
-![prototyping](Jammer-Photos/03-prototyping.jpg)
-*First bring-up: ESP32, the OLED control board, and the 3-radio stack connected by jumpers.*
-
-![perfboard assembly](Jammer-Photos/07-perfboard-assembly.jpg)
-*The heart of the device — three NRF24L01+ modules with SMA connectors, hard-wired to the ESP32.*
-
-![boards](Jammer-Photos/08-boards.jpg)
-*The two finished boards: radios + battery (left) and OLED + controls (right).*
+| | |
+|---|---|
+| <img src="Jammer-Photos/04-dev-environment.jpg" width="380"><br>*Planning the wiring: schematic on the monitor, firmware on the laptop.* | <img src="Jammer-Photos/03-prototyping.jpg" width="380"><br>*First bring-up: ESP32, the OLED control board, and the 3-radio stack connected by jumpers.* |
+| <img src="Jammer-Photos/07-perfboard-assembly.jpg" width="380"><br>*The heart of the device — three NRF24L01+ modules with SMA connectors, hard-wired to the ESP32.* | <img src="Jammer-Photos/08-boards.jpg" width="380"><br>*The two finished boards: radios + battery (left) and OLED + controls (right).* |
 
 ---
 
@@ -64,7 +55,7 @@ Version 2 is a full hardware revision. Everything that made the first version wo
 
 | SCAN | ATTACK |
 |---|---|
-| ![scan menu](Jammer-Photos/09-ui-scan.jpg) | ![attack menu](Jammer-Photos/10-ui-attack.jpg) |
+| <img src="Jammer-Photos/09-ui-scan.jpg" width="380"> | <img src="Jammer-Photos/10-ui-attack.jpg" width="380"> |
 
 Three tabs, one button pad. Left/Right switches tabs, Up/Down moves through modules, Select enters, Back exits — with buzzer ticks on every step.
 
