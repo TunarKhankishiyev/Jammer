@@ -2,10 +2,10 @@
 
 A hands-on hardware and cybersecurity project. Built to understand wireless communication, RF interference, and the real-world attack surface of 2.4 GHz protocols — and how systems can be hardened against them.
 
-<p>
-  <img src="Jammer-Photos/06-device-front.jpg" width="270">
-  <img src="Jammer-Photos/11-side-view.jpg" width="270">
-  <img src="Jammer-Photos/12-side-closeup.jpg" width="270">
+<p align="center">
+  <img src="Jammer-Photos/06-device-front.jpg" height="400">
+  <img src="Jammer-Photos/11-side-view.jpg" height="400">
+  <img src="Jammer-Photos/12-side-closeup.jpg" height="400">
 </p>
 
 ---
