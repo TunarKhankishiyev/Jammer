@@ -121,7 +121,7 @@ Prerequisites and the full wiring guide live in the [setup/](setup/README.md) fo
 Built by **Tunar Khankishiyev** — hardware hacker, embedded systems & wireless security enthusiast.
 
 - GitHub: [@tunarkhankishiyev](https://github.com/tunarkhankishiyev)
-- LinkedIn: [tunar-xankisiyev-154a74328](https://linkedin.com/in/tunar-xankisiyev-154a74328)
+- LinkedIn: [Tunar Khankishiyev](https://www.linkedin.com/in/tunar-khankishiyev-154a74328)
 
 ---
 
